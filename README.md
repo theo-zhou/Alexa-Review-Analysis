@@ -1,3 +1,5 @@
+[![CI](https://github.com/theo-zhou/Alexa-Review-Analysis/actions/workflows/blank.yml/badge.svg)](https://github.com/theo-zhou/Alexa-Review-Analysis/actions/workflows/blank.yml)
+
 # Amazon Alexa Review Analysis
 
 ### Final project for BAX452: Machine Learning 
